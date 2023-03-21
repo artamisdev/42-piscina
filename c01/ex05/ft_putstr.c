@@ -16,7 +16,7 @@ void ft_putstr(char *str)
 	}
 }
 
-int main(void)
+/*int main(void)
 {
 	ft_putstr("This is the way!");
-}
+}*/
